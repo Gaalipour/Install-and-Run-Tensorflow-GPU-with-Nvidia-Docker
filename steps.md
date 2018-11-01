@@ -18,7 +18,7 @@ You just need to follow the steps at https://github.com/NVIDIA/nvidia-docker.
 
 run the follwoing command to open a jupyter nortebook and enjoy your GPU version of tensorflow, see https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tools/docker.
 <pre><code>
-nvidia-docker run -it -p 8888:8888 tensorflow/tensorflow:latest-gpu
+sudo nvidia-docker run -it -p 8888:8888 tensorflow/tensorflow:latest-gpu
 </code></pre>
 
 
