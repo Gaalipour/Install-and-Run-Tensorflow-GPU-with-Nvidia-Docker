@@ -20,3 +20,11 @@ run the follwoing command to open a jupyter nortebook and enjoy your GPU version
 <pre><code>
 nvidia-docker run -it -p 8888:8888 tensorflow/tensorflow:latest-gpu
 </code></pre>
+
+
+## Other Good Resources
+
+* https://affinelayer.com/docker/ 
+* https://medium.com/@flavienguillocheau/documenting-docker-with-gpu-deep-learning-for-noobs-2edd350ab2f7
+* https://blogs.technet.microsoft.com/machinelearning/2018/03/15/demystifying-docker-for-data-scientists-a-docker-tutorial-for-your-deep-learning-projects/
+* https://docs.nvidia.com/deeplearning/dgx/pdf/User-Guide.pdf
